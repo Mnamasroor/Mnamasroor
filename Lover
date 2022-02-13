@@ -7,9 +7,9 @@
 
     "versionCode": "24100",
 
-    "link": "https://cdn.jsdelivr.net/gh/topjohnwu/magisk-files@23.0/app-release.apk",
+    "link": "https://cdn.jsdelivr.net/gh/topjohnwu/magisk-files@24.1/app-release.apk",
 
-    "note": "https://raw.githubusercontent.com/tecnical-ishaq/tecnical-ishaq/main/23000.md"
+    "note": "https://raw.githubusercontent.com/tecnical-ishaq/tecnical-ishaq/main/24100.md"
 
   },
 
@@ -17,7 +17,7 @@
 
     "versionCode": "24",
 
-    "link": "https://cdn.jsdelivr.net/gh/topjohnwu/magisk-files@23.0/stub-release.apk"
+    "link": "https://cdn.jsdelivr.net/gh/topjohnwu/magisk-files@24.1/stub-release.apk"
 
   }
 
