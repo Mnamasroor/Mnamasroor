@@ -5,17 +5,17 @@
 
     "version": "Telegram : @mnamasroor🥳",
 
-    "versionCode": "25100",
+    "versionCode": "24300",
 
-    "link": "https://cdn.jsdelivr.net/gh/topjohnwu/magisk-files@25.1/app-release.apk",
+    "link": "https://cdn.jsdelivr.net/gh/topjohnwu/magisk-files@24.3/app-release.apk",
 
-    "note": "https://raw.githubusercontent.com/tecnical-ishaq/tecnical-ishaq/main/25100.md"
+    "note": "https://raw.githubusercontent.com/tecnical-ishaq/tecnical-ishaq/main/24300.md"
 
   },
 
   "stub": {
 
-    "versionCode": "25100",
+    "versionCode": "24300",
 
     "link": "https://cdn.jsdelivr.net/gh/topjohnwu/magisk-files@23.0/stub-release.apk"
 
